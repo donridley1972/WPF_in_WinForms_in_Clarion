@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+<assemblyIdentity name="WpfUserControlHost" version="1.0.0.0" processorArchitecture="x86"></assemblyIdentity>
+<clrClass clsid="{5E5ABFDF-A0E4-338E-81AE-044F24E01A9E}" progid="WpfUserControlHost" threadingModel="Both" name="WpfUserControlHost.Form1" runtimeVersion="v4.0.30319"></clrClass>
+<file name="WpfUserControlHost.dll" hashalg="SHA1"></file>
+</assembly>
