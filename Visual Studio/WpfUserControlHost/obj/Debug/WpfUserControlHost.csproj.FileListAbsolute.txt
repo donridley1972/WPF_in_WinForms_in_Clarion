@@ -1,0 +1,26 @@
+C:\Users\Don\source\repos\WpfUserControlHost\bin\Debug\WpfUserControlHost.exe.config
+C:\Users\Don\source\repos\WpfUserControlHost\bin\Debug\WpfUserControlHost.exe
+C:\Users\Don\source\repos\WpfUserControlHost\bin\Debug\WpfUserControlHost.pdb
+C:\Users\Don\source\repos\WpfUserControlHost\bin\Debug\HostingWpfUserControlInWf.dll
+C:\Users\Don\source\repos\WpfUserControlHost\bin\Debug\HostingWpfUserControlInWf.pdb
+C:\Users\Don\source\repos\WpfUserControlHost\obj\Debug\WpfUserControlHost.csproj.AssemblyReference.cache
+C:\Users\Don\source\repos\WpfUserControlHost\obj\Debug\WpfUserControlHost.Form1.resources
+C:\Users\Don\source\repos\WpfUserControlHost\obj\Debug\WpfUserControlHost.Properties.Resources.resources
+C:\Users\Don\source\repos\WpfUserControlHost\obj\Debug\WpfUserControlHost.csproj.GenerateResource.cache
+C:\Users\Don\source\repos\WpfUserControlHost\obj\Debug\WpfUserControlHost.csproj.CoreCompileInputs.cache
+C:\Users\Don\source\repos\WpfUserControlHost\obj\Debug\WpfUserC.445DE13B.Up2Date
+C:\Users\Don\source\repos\WpfUserControlHost\obj\Debug\WpfUserControlHost.exe
+C:\Users\Don\source\repos\WpfUserControlHost\obj\Debug\WpfUserControlHost.pdb
+C:\Users\Don\source\repos\WpfInWinFormsInClarion\Visual Studio\WpfUserControlHost\obj\Debug\WpfUserControlHost.csproj.AssemblyReference.cache
+C:\Users\Don\source\repos\WpfInWinFormsInClarion\Visual Studio\WpfUserControlHost\obj\Debug\WpfUserControlHost.Form1.resources
+C:\Users\Don\source\repos\WpfInWinFormsInClarion\Visual Studio\WpfUserControlHost\obj\Debug\WpfUserControlHost.Properties.Resources.resources
+C:\Users\Don\source\repos\WpfInWinFormsInClarion\Visual Studio\WpfUserControlHost\obj\Debug\WpfUserControlHost.csproj.GenerateResource.cache
+C:\Users\Don\source\repos\WpfInWinFormsInClarion\Visual Studio\WpfUserControlHost\obj\Debug\WpfUserControlHost.csproj.CoreCompileInputs.cache
+C:\Users\Don\source\repos\WpfInWinFormsInClarion\Visual Studio\WpfUserControlHost\obj\Debug\WpfUserControlHost.pdb
+C:\Users\Don\source\repos\WpfInWinFormsInClarion\Visual Studio\WpfUserControlHost\bin\Debug\WpfUserControlHost.dll.config
+C:\Users\Don\source\repos\WpfInWinFormsInClarion\Visual Studio\WpfUserControlHost\bin\Debug\WpfUserControlHost.dll
+C:\Users\Don\source\repos\WpfInWinFormsInClarion\Visual Studio\WpfUserControlHost\bin\Debug\WpfUserControlHost.pdb
+C:\Users\Don\source\repos\WpfInWinFormsInClarion\Visual Studio\WpfUserControlHost\bin\Debug\HostingWpfUserControlInWf.dll
+C:\Users\Don\source\repos\WpfInWinFormsInClarion\Visual Studio\WpfUserControlHost\bin\Debug\HostingWpfUserControlInWf.pdb
+C:\Users\Don\source\repos\WpfInWinFormsInClarion\Visual Studio\WpfUserControlHost\obj\Debug\WpfUserC.445DE13B.Up2Date
+C:\Users\Don\source\repos\WpfInWinFormsInClarion\Visual Studio\WpfUserControlHost\obj\Debug\WpfUserControlHost.dll

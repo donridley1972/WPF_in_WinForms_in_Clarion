@@ -1,0 +1,26 @@
+C:\Users\Don\source\repos\HostingWpfUserControlInWf\bin\Debug\HostingWpfUserControlInWf.dll
+C:\Users\Don\source\repos\HostingWpfUserControlInWf\bin\Debug\HostingWpfUserControlInWf.pdb
+C:\Users\Don\source\repos\HostingWpfUserControlInWf\obj\Debug\HostingWpfUserControlInWf.csproj.AssemblyReference.cache
+C:\Users\Don\source\repos\HostingWpfUserControlInWf\obj\Debug\UserControl1.g.cs
+C:\Users\Don\source\repos\HostingWpfUserControlInWf\obj\Debug\HostingWpfUserControlInWf_MarkupCompile.cache
+C:\Users\Don\source\repos\HostingWpfUserControlInWf\obj\Debug\HostingWpfUserControlInWf_MarkupCompile.lref
+C:\Users\Don\source\repos\HostingWpfUserControlInWf\obj\Debug\UserControl1.baml
+C:\Users\Don\source\repos\HostingWpfUserControlInWf\obj\Debug\HostingWpfUserControlInWf.g.resources
+C:\Users\Don\source\repos\HostingWpfUserControlInWf\obj\Debug\HostingWpfUserControlInWf.Properties.Resources.resources
+C:\Users\Don\source\repos\HostingWpfUserControlInWf\obj\Debug\HostingWpfUserControlInWf.csproj.GenerateResource.cache
+C:\Users\Don\source\repos\HostingWpfUserControlInWf\obj\Debug\HostingWpfUserControlInWf.csproj.CoreCompileInputs.cache
+C:\Users\Don\source\repos\HostingWpfUserControlInWf\obj\Debug\HostingWpfUserControlInWf.dll
+C:\Users\Don\source\repos\HostingWpfUserControlInWf\obj\Debug\HostingWpfUserControlInWf.pdb
+C:\Users\Don\source\repos\WpfInWinFormsInClarion\Visual Studio\WpfUserControlHost\HostingWpfUserControlInWf\bin\Debug\HostingWpfUserControlInWf.dll
+C:\Users\Don\source\repos\WpfInWinFormsInClarion\Visual Studio\WpfUserControlHost\HostingWpfUserControlInWf\bin\Debug\HostingWpfUserControlInWf.pdb
+C:\Users\Don\source\repos\WpfInWinFormsInClarion\Visual Studio\WpfUserControlHost\HostingWpfUserControlInWf\obj\Debug\HostingWpfUserControlInWf.csproj.AssemblyReference.cache
+C:\Users\Don\source\repos\WpfInWinFormsInClarion\Visual Studio\WpfUserControlHost\HostingWpfUserControlInWf\obj\Debug\UserControl1.g.cs
+C:\Users\Don\source\repos\WpfInWinFormsInClarion\Visual Studio\WpfUserControlHost\HostingWpfUserControlInWf\obj\Debug\HostingWpfUserControlInWf_MarkupCompile.cache
+C:\Users\Don\source\repos\WpfInWinFormsInClarion\Visual Studio\WpfUserControlHost\HostingWpfUserControlInWf\obj\Debug\HostingWpfUserControlInWf_MarkupCompile.lref
+C:\Users\Don\source\repos\WpfInWinFormsInClarion\Visual Studio\WpfUserControlHost\HostingWpfUserControlInWf\obj\Debug\UserControl1.baml
+C:\Users\Don\source\repos\WpfInWinFormsInClarion\Visual Studio\WpfUserControlHost\HostingWpfUserControlInWf\obj\Debug\HostingWpfUserControlInWf.g.resources
+C:\Users\Don\source\repos\WpfInWinFormsInClarion\Visual Studio\WpfUserControlHost\HostingWpfUserControlInWf\obj\Debug\HostingWpfUserControlInWf.Properties.Resources.resources
+C:\Users\Don\source\repos\WpfInWinFormsInClarion\Visual Studio\WpfUserControlHost\HostingWpfUserControlInWf\obj\Debug\HostingWpfUserControlInWf.csproj.GenerateResource.cache
+C:\Users\Don\source\repos\WpfInWinFormsInClarion\Visual Studio\WpfUserControlHost\HostingWpfUserControlInWf\obj\Debug\HostingWpfUserControlInWf.csproj.CoreCompileInputs.cache
+C:\Users\Don\source\repos\WpfInWinFormsInClarion\Visual Studio\WpfUserControlHost\HostingWpfUserControlInWf\obj\Debug\HostingWpfUserControlInWf.dll
+C:\Users\Don\source\repos\WpfInWinFormsInClarion\Visual Studio\WpfUserControlHost\HostingWpfUserControlInWf\obj\Debug\HostingWpfUserControlInWf.pdb
